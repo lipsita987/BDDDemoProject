@@ -31,6 +31,5 @@ bat 'mvn deploy'
 }
 
 }
-
-
+}
 }
